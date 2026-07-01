@@ -2,8 +2,6 @@
 
 <div align="center">
 
-## 🚀 ApexPlanet Internship – Task 2
-
 **Domain:** Data Analytics
 
 **👨‍💻 Submitted by:** **Aradhya Maheshwari**
@@ -36,14 +34,6 @@
 ---
 
 # 📌 Project Overview
-
-This project is part of the **ApexPlanet Data Analytics Internship (Task 2)**.
-
-...
-
-# 📌 Project Overview
-
-This project is part of the **ApexPlanet Data Analytics Internship (Task 2)**.
 
 The objective was to perform **Exploratory Data Analysis (EDA)** on a cleaned sales dataset, uncover meaningful business insights, analyze sales trends, and build an **Executive Business Intelligence Dashboard** using Microsoft Excel.
 
@@ -97,7 +87,7 @@ The objective was to perform **Exploratory Data Analysis (EDA)** on a cleaned sa
 │   ├── Product_Distribution.png
 │   └── Age_Distribution.png
 │
-├── 📊 Cleaned_ApexPlanet_DataAnalytics_Dataset.xlsx
+├── 📊 Cleaned_Dataset.xlsx
 ├── 🗄️ Sales_Database.db
 ├── 📄 SQL_Results.xlsx
 ├── 🐍 EDA_Analysis.py
@@ -200,7 +190,7 @@ The following analyses were performed:
 
 | File | Description |
 |------|-------------|
-| 📊 Cleaned_ApexPlanet_DataAnalytics_Dataset.xlsx | Cleaned Dataset with Dashboard |
+| 📊 Cleaned_Dataset.xlsx | Cleaned Dataset with Dashboard |
 | 🐍 EDA_Analysis.py | Python EDA Script |
 | 🐍 SQL_Analysis.py | SQL Analysis Script |
 | 🗄️ Sales_Database.db | SQLite Database |
